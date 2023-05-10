@@ -123,3 +123,26 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+#name {
+  font-size: 4rem;
+  font-weight: bold;
+  color: #fff;
+  background-color: #2d4059;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 4px #000;
+}
+
+#title {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #2d4059;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
